@@ -6,9 +6,15 @@ git clone https://github.com/jigendisuke/admin_finder/tree/main
 
 pip install -r requirement.text
 
+after completing installation to run this tool :
+
+cd admin_finder
+
+python3 adminfinder.py
 
 
-# Disclaimer
+
+# Disclaimer ☠️
 
 This tool is developed for educational and security testing purposes only. It is intended to help security researchers and professionals analyze and improve security systems.
 
